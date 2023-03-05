@@ -1,7 +1,7 @@
 # Case Study #1 - Danny's Diner
 
 <div align="center" >
-<img height:"100" width:"100" src="https://github.com/bavithaboina/DannysChallenge/blob/main/case_study_1/images/Danny1.png">
+<img height:"50" width:"50" src="https://github.com/bavithaboina/DannysChallenge/blob/main/case_study_1/images/Danny1.png">
 </div>
 
 ## Introduction
