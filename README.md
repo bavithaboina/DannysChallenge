@@ -1,4 +1,4 @@
-# Danny's 8-Week SQL Challenge
+# Danny's SQL Challenge
 
 
 #### You can find the complete challenge here
