@@ -1,5 +1,9 @@
 # Case Study #1 - Danny's Diner
-Danny1.png
+
+<div align="center" >
+<img height:"100" width:"100" src="https://github.com/bavithaboina/DannysChallenge/blob/main/case_study_1/images/Danny1.png">
+</div>
+
 ## Introduction
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
@@ -18,7 +22,11 @@ Danny has shared 3 key datasets for this case study:
 * members
 
 The entity relationship diagram is as follows
-ER.png
+
+<div align="center" >
+<img height:"100" width:"100" src="https://github.com/bavithaboina/DannysChallenge/blob/main/case_study_1/images/ER.png">
+</div>
+
 
 ## Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
