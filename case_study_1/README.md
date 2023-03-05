@@ -47,4 +47,4 @@ MYSQL
 
 
 #### You can find the complete challenge here
-[complete challenge] (https://8weeksqlchallenge.com/case-study-1/)
+[complete challenge](https://8weeksqlchallenge.com/case-study-1/)
